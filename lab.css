@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+
+}
+p {
+    font-size:x-large;
+}
+img {
+    width: 160px;
+    height: 210px;
+}
+button {
+    color:rgb(18, 15, 15);
+    background-color: rgb(157, 161, 148);
+    border-color: aliceblue;
+    border-radius: 19px;
+}
